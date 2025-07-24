@@ -8,7 +8,7 @@ num=int(input("enter a number:"))
 head(num)
   
 
-for tails
+#for tails
 def head(n):
     if n==0:
         return
